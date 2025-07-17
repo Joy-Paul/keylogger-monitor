@@ -4,13 +4,13 @@ A Python-based keylogger utility with encrypted logging, suspicious process dete
 
 **# Features**
 
-\- \*\*Encrypted keylogging\*\*: Records keystrokes and stores them securely with symmetric encryption.
+\- Encrypted keylogging: Records keystrokes and stores them securely with symmetric encryption.
 
-\- \*\*Real-time log view\*\*: Decrypts and displays logs in an easy-to-use GUI.
+\- Real-time log view: Decrypts and displays logs in an easy-to-use GUI.
 
-\- \*\*Keylogger detection\*\*: Scans for suspicious processes commonly used for keylogging.
+\- Keylogger detection: Scans for suspicious processes commonly used for keylogging.
 
-\- \*\*Log management\*\*: Load and clear logs with a single click.
+\- Log management: Load and clear logs with a single click.
 
 
 **# Installation**
