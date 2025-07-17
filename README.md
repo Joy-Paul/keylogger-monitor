@@ -1,8 +1,8 @@
-**#~# Keylogger Monitor  #~#**
+**# Keylogger Monitor**
 
 A Python-based keylogger utility with encrypted logging, suspicious process detection, and a Tkinter GUI. This tool is for educational and ethical use only.
 
-**#~# Features  #~#**
+**# Features**
 
 \- \*\*Encrypted keylogging\*\*: Records keystrokes and stores them securely with symmetric encryption.
 
@@ -13,7 +13,7 @@ A Python-based keylogger utility with encrypted logging, suspicious process dete
 \- \*\*Log management\*\*: Load and clear logs with a single click.
 
 
-**#~# Installation  #~#**
+**# Installation**
 
 1\. Clone this repository:
 
@@ -27,7 +27,7 @@ A Python-based keylogger utility with encrypted logging, suspicious process dete
 *pip install -r requirements.txt*
 
 
-**#~#  Usage  #~#**
+**# Usage**
 Start the application:
 
 *python keylogger.py*
@@ -42,7 +42,7 @@ The GUI allows you to:
 \- Clear logs and restart the background keylogger.
 
 
-**#~# Security Notice #~#**
+**#Security Notice**
 
 \- The log file is encrypted using a symmetric key stored locally.
 
@@ -51,7 +51,7 @@ The GUI allows you to:
 \- Misuse of this tool for unauthorised surveillance or data exfiltration is prohibited.
 
 
-**#~# License #~#**
+**# License**
 
 This project is for educational purposes. Ensure compliance with local laws.
 
